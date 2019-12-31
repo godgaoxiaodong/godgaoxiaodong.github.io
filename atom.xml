@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>高晓东的博客</title>
+  
+  <subtitle>godgaoxiaodong</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://godgaoxiaodong.github.io/"/>
+  <updated>2019-12-31T09:03:17.776Z</updated>
+  <id>https://godgaoxiaodong.github.io/</id>
+  
+  <author>
+    <name>高晓东</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://godgaoxiaodong.github.io/2019/12/31/hello-world/"/>
+    <id>https://godgaoxiaodong.github.io/2019/12/31/hello-world/</id>
+    <published>2019-12-31T09:03:17.776Z</published>
+    <updated>2019-12-31T09:03:17.776Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>blog 搭建</title>
+    <link href="https://godgaoxiaodong.github.io/2019/12/31/blog-da-jian/"/>
+    <id>https://godgaoxiaodong.github.io/2019/12/31/blog-da-jian/</id>
+    <published>2019-12-31T08:58:46.000Z</published>
+    <updated>2019-12-31T09:03:17.776Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
