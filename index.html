@@ -343,7 +343,7 @@
                 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
                 <script>
                     var typed = new Typed("#subtitle", {
-                        strings: ['从来没有真正的绝境, 只有心灵的迷途','Never really desperate, only the lost of the soul'],
+                        strings: ['我存在，以梦，以马，以尘埃。','I exsit in this world, just as a wandering dreamer, a flying horse, a shining dust.'],
                         startDelay: 300,
                         typeSpeed: 100,
                         loop: true,
@@ -462,7 +462,7 @@
                         <div class="dream">
     
     <div class="title center-align">
-        <i class="far fa-lightbulb"></i>&nbsp;&nbsp;
+        <i class="far fa-lightbulb"></i>&nbsp;&nbsp;My dream
     </div>
     
     <div class="row">
@@ -473,6 +473,41 @@
 </div>
                     
 
+                    
+                        
+
+<link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+<div class="music-player">
+    
+    <div class="title center-align">
+        <i class="fas fa-music"></i>&nbsp;&nbsp;music
+    </div>
+    
+    <div class="row">
+        <div class="col l8 offset-l2 m10 offset-m1 s12">
+            <div id="aplayer" class="music"></div>
+        </div>
+    </div>
+</div>
+
+<script src="/libs/aplayer/APlayer.min.js"></script>
+<script>
+$(function () {
+    new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: 'false' === 'true',
+        autoplay: 'false' === 'true',
+        theme: '#42b983',
+        loop: 'all',
+        order: 'list',
+        preload: 'auto',
+        volume: Number('0.7'),
+        listFolded: 'false' === 'true',
+        listMaxHeight: '',
+        audio: eval([{"name":"爱的罗曼史","artist":"Narciso Yepes","url":"/medias/music/aideluomanshi.mp3","cover":"/medias/music/avatars/aideluomanshi.jpeg"}])
+    });
+});
+</script>
                     
 
                     
