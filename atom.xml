@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://godgaoxiaodong.github.io/"/>
-  <updated>2020-01-02T08:13:35.941Z</updated>
+  <updated>2020-01-03T10:00:12.938Z</updated>
   <id>https://godgaoxiaodong.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>blog 搭建</title>
+    <title>Blog 搭建</title>
     <link href="https://godgaoxiaodong.github.io/2020/01/02/blog-da-jian/"/>
     <id>https://godgaoxiaodong.github.io/2020/01/02/blog-da-jian/</id>
     <published>2020-01-02T01:25:00.000Z</published>
-    <updated>2020-01-02T08:13:35.941Z</updated>
+    <updated>2020-01-03T10:00:12.938Z</updated>
     
     <summary type="html">
     
@@ -43,34 +43,9 @@
       <category term="Markdown" scheme="https://godgaoxiaodong.github.io/categories/Markdown/"/>
     
     
-      <category term="blog" scheme="https://godgaoxiaodong.github.io/tags/blog/"/>
-    
       <category term="Typora" scheme="https://godgaoxiaodong.github.io/tags/Typora/"/>
     
       <category term="Markdown" scheme="https://godgaoxiaodong.github.io/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://godgaoxiaodong.github.io/2019/12/31/hello-world/"/>
-    <id>https://godgaoxiaodong.github.io/2019/12/31/hello-world/</id>
-    <published>2019-12-31T09:03:17.776Z</published>
-    <updated>2019-12-31T09:03:17.776Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
