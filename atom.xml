@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gaoxiaodong.top/"/>
-  <updated>2020-01-06T07:28:11.695Z</updated>
+  <updated>2020-01-06T09:24:18.644Z</updated>
   <id>https://gaoxiaodong.top/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三次握手和四次挥手</title>
+    <link href="https://gaoxiaodong.top/2020/01/06/san-ci-wo-shou-he-si-ci-hui-shou/"/>
+    <id>https://gaoxiaodong.top/2020/01/06/san-ci-wo-shou-he-si-ci-hui-shou/</id>
+    <published>2020-01-06T08:16:03.000Z</published>
+    <updated>2020-01-06T09:24:18.644Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;三次握手&quot;&gt;&lt;a href=&quot;#三次握手&quot; class=&quot;headerlink&quot; title=&quot;三次握手&quot;&gt;&lt;/a&gt;三次握手&lt;/h1&gt;&lt;h2 id=&quot;什么是三次握手（three-way-handshake）？&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="计算机网络" scheme="https://gaoxiaodong.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="面试准备" scheme="https://gaoxiaodong.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/"/>
+    
+    
+      <category term="计算机网络" scheme="https://gaoxiaodong.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>博客搭建教程链接汇总</title>
