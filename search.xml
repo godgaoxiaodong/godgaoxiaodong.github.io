@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Blog 搭建</title>
+      <title>博客搭建教程链接汇总</title>
       <link href="/2020/01/03/blog-da-jian/"/>
       <url>/2020/01/03/blog-da-jian/</url>
       
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h1 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h1><p>先看效果，我的博客地址：<a href="https://gaoxiaodong.top">https://gaoxiaodong.top</a>。</p><p>我的博客源码地址：<a href="https://github.com/godgaoxiaodong/godgaoxiaodong.github.io" target="_blank" rel="noopener">https://github.com/godgaoxiaodong/godgaoxiaodong.github.io</a>，喜欢的可以赏个 star。</p><hr><h1 id="参考文章"><a href="#参考文章" class="headerlink" title="参考文章"></a>参考文章</h1><p>网上的相关教程已经很多很细致了，我就不再复制粘贴了。贴一下我所有参考的文章：</p><p><a href="https://godweiyang.com/2018/04/13/hexo-blog/#toc-heading-1" target="_blank" rel="noopener">超详细Hexo+Github博客搭建小白教程</a></p><p><a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank" rel="noopener">matery主题</a></p><p><a href="https://blog.sky03.cn/posts/42790.html#toc-heading-15" target="_blank" rel="noopener">Hexo 进阶之各种优化</a></p><p><a href="https://www.jianshu.com/p/191d1e21f7ed" target="_blank" rel="noopener">Markdown基本语法</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
