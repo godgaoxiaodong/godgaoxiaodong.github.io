@@ -13,15 +13,11 @@
       
       <categories>
           
-          <category> 面试准备 </category>
-          
           <category> LeetCode </category>
           
           <category> Golang </category>
           
           <category> 算法 </category>
-          
-          <category> Medium </category>
           
       </categories>
       
@@ -49,8 +45,6 @@
       <categories>
           
           <category> 计算机网络 </category>
-          
-          <category> 面试准备 </category>
           
       </categories>
       

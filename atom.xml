@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gaoxiaodong.top/"/>
-  <updated>2020-01-10T09:33:24.988Z</updated>
+  <updated>2020-01-10T09:35:01.829Z</updated>
   <id>https://gaoxiaodong.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://gaoxiaodong.top/2020/01/10/leetcode-golang-zui-chang-hui-wen-zi-chuan/"/>
     <id>https://gaoxiaodong.top/2020/01/10/leetcode-golang-zui-chang-hui-wen-zi-chuan/</id>
     <published>2020-01-10T07:56:26.000Z</published>
-    <updated>2020-01-10T09:33:24.988Z</updated>
+    <updated>2020-01-10T09:35:01.829Z</updated>
     
     <summary type="html">
     
@@ -36,15 +36,11 @@
     </summary>
     
     
-      <category term="面试准备" scheme="https://gaoxiaodong.top/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/"/>
+      <category term="LeetCode" scheme="https://gaoxiaodong.top/categories/LeetCode/"/>
     
-      <category term="LeetCode" scheme="https://gaoxiaodong.top/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/LeetCode/"/>
+      <category term="Golang" scheme="https://gaoxiaodong.top/categories/LeetCode/Golang/"/>
     
-      <category term="Golang" scheme="https://gaoxiaodong.top/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/LeetCode/Golang/"/>
-    
-      <category term="算法" scheme="https://gaoxiaodong.top/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/LeetCode/Golang/%E7%AE%97%E6%B3%95/"/>
-    
-      <category term="Medium" scheme="https://gaoxiaodong.top/categories/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/LeetCode/Golang/%E7%AE%97%E6%B3%95/Medium/"/>
+      <category term="算法" scheme="https://gaoxiaodong.top/categories/LeetCode/Golang/%E7%AE%97%E6%B3%95/"/>
     
     
       <category term="Golang" scheme="https://gaoxiaodong.top/tags/Golang/"/>
@@ -58,7 +54,7 @@
     <link href="https://gaoxiaodong.top/2020/01/06/san-ci-wo-shou-he-si-ci-hui-shou/"/>
     <id>https://gaoxiaodong.top/2020/01/06/san-ci-wo-shou-he-si-ci-hui-shou/</id>
     <published>2020-01-06T08:16:03.000Z</published>
-    <updated>2020-01-06T10:41:29.528Z</updated>
+    <updated>2020-01-10T09:35:11.254Z</updated>
     
     <summary type="html">
     
@@ -74,8 +70,6 @@
     
     
       <category term="计算机网络" scheme="https://gaoxiaodong.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
-    
-      <category term="面试准备" scheme="https://gaoxiaodong.top/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/"/>
     
     
       <category term="计算机网络" scheme="https://gaoxiaodong.top/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
